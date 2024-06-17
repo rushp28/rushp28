@@ -37,5 +37,3 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rushp28/rushp28/output/github-contribution-grid-snake-b153.svg" />
 </div>
 <br>
-
-[![Rashmika's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rushp28&theme=merko&area=true&hide_border=true)](https://github.com/rushp28/github-readme-activity-graph)
